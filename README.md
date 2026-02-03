@@ -1,5 +1,5 @@
 # Running GROMACS on ALICE guide
-*By*
+*By Nicole Schmidt-Hebbel [@nicoleyshebbel](https://github.com/nicoleyshebbel)*
 
 ---
 
